@@ -91,14 +91,14 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url('./christmas-lantern-with-fir-branch-decoration-snowy-table-defocused-background-generative-ai.jpg');
+    background-image: url('./components/christmas-lantern-with-fir-branch-decoration-snowy-table-defocused-background-generative-ai.jpg');
 }
 .card[for="c2"] {
-    background-image: url('./medium-shot-man-wearing-vr-glasses.jpg');
+    background-image: url('./components/medium-shot-man-wearing-vr-glasses.jpg');
 }
 .card[for="c3"] {
-    background-image: url('./2151075827.jpg');
+    background-image: url('./components/2151075827.jpg');
 }
 .card[for="c4"] {
-    background-image: url('./astronaut-explores-outer-dark-space-generative-al.jpg');
+    background-image: url('./components/astronaut-explores-outer-dark-space-generative-al.jpg');
 }
